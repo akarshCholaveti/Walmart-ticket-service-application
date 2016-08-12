@@ -9,6 +9,7 @@ The Ticket service application will have 3 main functionalities
 3.	Reserve the held seats for the user.
 The application can be run in four different modes. Each mode has its own advantages and disadvantages of the ticketing system. The developer can use his/her mode of choice.
 
+
 1.	Ticket Service Atomic: This mode will run the application in the atomic way by holding all the resources for the user until he/she completes the operation. This mode will use the accurate values for the user by removing timed out objects before the start of every operation. Thus by giving the best seats possible.
 Advantages: Accurate data is used for the operations; user will be guaranteed to get all the requested seats (if shown available before the hold)
 Disadvantages: Removing the holds before every operation for every user will affect the performance of the system, holding all the resources for every user will make other users to wait for more time to get access.
