@@ -2,10 +2,12 @@
 Akarsh Cholaveti, cholaveti.akarsh@gmail.com
 
 # Application Details:
+
 The Ticket service application will have 3 main functionalities
 1.	Get the available seats for the user
 2.	Find and Hold the seats for the user
 3.	Reserve the held seats for the user.
+
 The application can be run in four different modes. Each mode has its own advantages and disadvantages of the ticketing system. The developer can use his/her mode of choice.
 
 
