@@ -3,6 +3,7 @@ Akarsh Cholaveti, cholaveti.akarsh@gmail.com
 
 # Application Details:
 The Ticket service application will have 3 main functionalities
+
 1.	Get the available seats for the user
 2.	Find and Hold the seats for the user
 3.	Reserve the held seats for the user.
@@ -50,6 +51,7 @@ The unit test cases of the application are executed using the Junit Suite of 3.8
 
 # Dependencies:
 Following language, tools and dependencies are used for the project.
+
 1.	Java 1.8
 2.	Junit 3.8.1
 3.	Maven build tool
